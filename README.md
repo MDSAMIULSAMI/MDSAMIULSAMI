@@ -1,11 +1,10 @@
 [![MasterHead](https://www.nelsoncap.com/wp-content/uploads/2021/04/2021.04-Technology.jpg)](https://mdsamiulsami.io)
 <h1 align="center">Hello🤠, I'm Md. Samiul Islam</h1>
 <h3 align="center">A passionate Web & Software Developer from Bangladesh</h3>
-<img align = "right" alt = "Coding" width = "400" src = "https://i.ibb.co/JFTnB3g/5ARz.gif" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsamiulsami&label=Profile%20views&color=0e75b6&style=flat" alt="mdsamiulsami" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mdsamiulsami&label=Profile%20views&color=0e75b6&style=flat" alt="mdsamiulsami" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdsamiulsami" alt="mdsamiulsami" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdsamiulsami" alt="mdsamiulsami" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and RESTApi**
 
