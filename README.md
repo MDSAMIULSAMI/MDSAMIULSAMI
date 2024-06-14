@@ -25,7 +25,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsamiulsami&show_icons=true&locale=en&layout=compact" alt="mdsamiulsami" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mdsamiulsami&show_icons=true&locale=en" alt="mdsamiulsami" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsamiulsami&show_icons=true&locale=en" alt="mdsamiulsami" /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
