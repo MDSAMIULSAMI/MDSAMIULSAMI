@@ -27,8 +27,8 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsamiulsami&show_icons=true&locale=en&layout=compact" alt="mdsamiulsami" /></p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/md-samiul-islam-17738a1b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-samiul-islam-17738a1b9/" height="30" width="40" /></a>
 <a href="https://kaggle.com/samiul2172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="samiul2172" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mdsamiulislam2172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdsamiulislam2172" height="30" width="40" /></a>
