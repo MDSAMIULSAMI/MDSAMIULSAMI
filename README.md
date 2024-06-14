@@ -12,13 +12,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsamiulsami&show_icons=true&locale=en" alt="mdsamiulsami" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsamiulsami&" alt="mdsamiulsami" /></p>
-- 🌱 I’m currently learning **Machine Learning, Deep Learning and RESTApi**
+- 🌱 I’m currently learning <b>Machine Learning</b>, <b>Deep Learning</b> & <b>RESTApi</b>
 
-- 💬 Ask me about **React, Vue, ES6, RESTApi, Bash, Linux OS, Machine Learning and AI**
+- 💬 Ask me about **React, Vue, ES6, RESTApi, Bash, Linux OS, Machine Learning & AI**
 
 - 📫 How to reach me **mdsamiulislam2172@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Tjd5i7_yNs2w-8m5rvWaghyLDZ6JYR2g/view?usp=drive_link](https://drive.google.com/file/d/1Tjd5i7_yNs2w-8m5rvWaghyLDZ6JYR2g/view?usp=drive_link)
+- 📄 Check out my resume [My Resume](https://drive.google.com/file/d/1Tjd5i7_yNs2w-8m5rvWaghyLDZ6JYR2g/view?usp=drive_link)
 
 - ⚡ Fun fact **I'm always happy.**
 
