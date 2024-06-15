@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mdsamiulislam2172@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Tjd5i7_yNs2w-8m5rvWaghyLDZ6JYR2g/view?usp=drive_link](https://drive.google.com/file/d/1Tjd5i7_yNs2w-8m5rvWaghyLDZ6JYR2g/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Tjd5i7_yNs2w-8m5rvWaghyLDZ6JYR2g/view?usp=drive_link)
 
 - ⚡ Fun fact **I'm always happy.**
 
