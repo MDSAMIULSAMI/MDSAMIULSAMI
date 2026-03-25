@@ -20,13 +20,13 @@
 ## Tech Stack
 
 ### Frontend
-React • Vue • JavaScript (ES6+) • HTML5 • CSS3 • Bootstrap  
+React • Vue • Next.js • Nuxt • Tailwind  
 
 ### Backend & Tools
-Python • Django • REST APIs • MySQL • Linux • Bash  
+Python • FastAPI • REST APIs • MySQL • MongoDB • Radis
 
 ### AI / ML
-Scikit-learn • TensorFlow  
+LangChain • LangSmith • LangGraph
 
 ### Others
 Git • Postman • Figma  
@@ -48,8 +48,7 @@ Git • Postman • Figma
 
 ## Featured Projects
 
-- AI WhatsApp Agent – Automated booking and chat system  
-- Travela API Integration – Hotel booking backend system  
+- Travela WhatsApp Agent – Automated booking and Payment system  
 - Custom Chat System – Tool-integrated AI messaging  
 
 ---
