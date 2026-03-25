@@ -1,18 +1,18 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.nelsoncap.com/wp-content/uploads/2021/04/2021.04-Technology.jpg" />
+  <img src="./FullStackUI.png" />
 </p>
 
-<h1 align="center">Hi, I'm Md. Samiul Islam</h1>
+<h1 align="center">Hi, Md. Samiul Islam here</h1>
 <h3 align="center">Full Stack Engineer @ <a href="https://datacrata.com" target="_blank">DataCrata</a></h3>
 
 ---
 
 ## About Me
-- Based in Bangladesh  
-- Passionate about building scalable web applications and AI-powered systems  
-- Currently learning Machine Learning, Deep Learning, and System Design  
-- Strong in React, Vue, Python, REST APIs, and Linux  
+- Working as Full Stack Engineer at DataCrata 
+- Passionate about building scalable web applications and AI powered systems  
+- Currently learning 'Transformer Learning', 'Reinforcement Learning' and 'System Design'  
+- Strong in React, FastAPI, REST APIs, and API integration
 - Enjoy solving real-world problems with code  
 
 ---
@@ -67,7 +67,7 @@ Git • Postman • Figma
 ## Resume
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1_0BeJxZVISzCWhUCHHxAXwx96slisFfS/view" target="_blank">
+  <a href="https://drive.google.com/file/d/11f0nvSerJi0dzD9C9mC3xUUBH4YTi1K5/view?usp=sharing" target="_blank">
     View My Resume
   </a>
 </p>
