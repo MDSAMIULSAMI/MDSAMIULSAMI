@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./FullStackUI.png" />
+    <img src="./FullStackUI.png" style="height: 300px; width: auto;" />
 </p>
 
 <h1 align="center">Hi, Md. Samiul Islam here</h1>
